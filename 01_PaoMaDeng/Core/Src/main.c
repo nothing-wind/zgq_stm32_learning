@@ -95,6 +95,8 @@ int main(void)
   {
     /* USER CODE END WHILE */
 
+	  // git 测试 OK。
+
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
