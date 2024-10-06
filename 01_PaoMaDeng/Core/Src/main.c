@@ -93,6 +93,13 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+	  LED0(0);
+	  LED1(1);
+	  HAL_Delay(500);
+
+	  LED0(1);
+	  LED1(0);
+	  HAL_Delay(500);
     /* USER CODE END WHILE */
 
 	  // git 测试 OK。
