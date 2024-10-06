@@ -1,0 +1,5 @@
+*.log
+/02_BEEPER/.settings
+/02_BEEPER/Debug
+/01_PaoMaDeng/.settings
+/01_PaoMaDeng/Debug
